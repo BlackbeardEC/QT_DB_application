@@ -3,7 +3,7 @@ QT DB application
 **QT DB application** is a QT Customer/Employee DB application that I wrote for fun and learning. I used MariaDB and QTCreator.
 
 #### Screenshot
-![Screenshot software](http://url/screenshot-software.png "screenshot software")
+![Add Customer](https://raw.githubusercontent.com/BlackbeardEC/QT_DB_application/master/screen_shots/add_customer-2019-06-29-14%3A14%3A10_908x648_scrot.png "Add Customer")
 
 ## Contact
 #### Developer/Company
